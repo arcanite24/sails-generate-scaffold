@@ -2,6 +2,8 @@
 
 ###**Note:** This module requires Sails **v0.10.0-rc8** or higher.
 
+Base on the work of [irlnathan](http://github.com/irlnathan)
+
 A `scaffold` generator for use with the Sails command-line interface.  A `scaffold` generates a rudimentary model, CRUD controller actions (e.g. index, new, create, edit, update, and destroy), and corresponding views of a Sails project.   The `scaffold` generator will also create a policy that enables flash messages for errors on the new and edit views. 
 
 ### To install:
@@ -51,7 +53,7 @@ The first argument will be the `model` and `controller` name.  You can add any n
 ### License
 
 **[MIT](./LICENSE)**
-&copy; 2014 [irlnathan](http://github.com/irlnathan) & contributors
+&copy; 2017 [Brandon G. Neri](http://github.com/arcanite24) [irlnathan](http://github.com/irlnathan) & contributors
 
 As for [Sails](http://sailsjs.org)?  It's free and open-source under the [MIT License](http://sails.mit-license.org/).
 
